@@ -1,4 +1,6 @@
 https://drive.google.com/file/d/1WRe2C8c2mKLYU3q-lW8mPy7OoPZfhv79/view?usp=share_link 
 
 
-https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html 
+
+https://drive.google.com/drive/folders/1S23tSb0ozEtIlcerRkct2kzrPey-c1dx
